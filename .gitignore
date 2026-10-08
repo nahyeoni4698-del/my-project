@@ -1,0 +1,16 @@
+
+# Large files
+*.zip
+*.mp4
+*.mov
+
+# Dependencies
+node_modules/
+.next/
+__pycache__/
+*.pyc
+
+# Secrets
+.env
+.env.*
+!.env.example

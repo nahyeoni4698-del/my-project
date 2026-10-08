@@ -1,0 +1,90 @@
+{
+ "PD202609215000001": {
+  "product_code": "PD202609215000001",
+  "subject": "수학",
+  "teacher": "정재일 선생님",
+  "title": "(VOD) 정재일T 2026 서바이벌 실전모의 11주차",
+  "lecture_count": "4",
+  "period": "2026-09-22~2026-10-20",
+  "category": "수학",
+  "category_code": "50",
+  "lastSeen": "2026-10-01"
+ },
+ "PD202609075000007": {
+  "product_code": "PD202609075000007",
+  "subject": "수학",
+  "teacher": "강철중 선생님",
+  "title": "(VOD) 강철중T 2026 서바이벌 실전모의 9주차",
+  "lecture_count": "4",
+  "period": "2026-09-21~2026-11-28",
+  "category": "수학",
+  "category_code": "50",
+  "lastSeen": "2026-10-01"
+ },
+ "PD202609145000008": {
+  "product_code": "PD202609145000008",
+  "subject": "수학",
+  "teacher": "강철중 선생님",
+  "title": "(VOD) 강철중T 2026 서바이벌 실전모의 10주차",
+  "lecture_count": "6",
+  "period": "2024-09-03~2026-11-20",
+  "category": "수학",
+  "category_code": "50",
+  "lastSeen": "2026-10-01"
+ },
+ "PD202609145000010": {
+  "product_code": "PD202609145000010",
+  "subject": "수학",
+  "teacher": "정재일 선생님",
+  "title": "(VOD) 정재일T 2026 서바이벌 실전모의 10주차",
+  "lecture_count": "4",
+  "period": "2026-09-14~2026-10-12",
+  "category": "수학",
+  "category_code": "50",
+  "lastSeen": "2026-10-01"
+ },
+ "PD202609075000003": {
+  "product_code": "PD202609075000003",
+  "subject": "수학",
+  "teacher": "정재일 선생님",
+  "title": "(VOD) 정재일T 2026 서바이벌 실전모의 9주차",
+  "lecture_count": "6",
+  "period": "2026-09-07~2026-10-05",
+  "category": "수학",
+  "category_code": "50",
+  "lastSeen": "2026-10-01"
+ },
+ "PD202608315000005": {
+  "product_code": "PD202608315000005",
+  "subject": "수학",
+  "teacher": "강철중 선생님",
+  "title": "(VOD) 강철중T 2026 서바이벌 실전모의 8주차",
+  "lecture_count": "9",
+  "period": "2026-09-06~2026-11-28",
+  "category": "수학",
+  "category_code": "50",
+  "lastSeen": "2026-10-01"
+ },
+ "PD202608315000004": {
+  "product_code": "PD202608315000004",
+  "subject": "수학",
+  "teacher": "정재일 선생님",
+  "title": "(VOD) 정재일T 2026 서바이벌 실전모의 8주차",
+  "lecture_count": "6",
+  "period": "2026-09-01~2026-09-29",
+  "category": "수학",
+  "category_code": "50",
+  "lastSeen": "2026-09-24"
+ },
+ "PD202609285000001": {
+  "product_code": "PD202609285000001",
+  "subject": "수학",
+  "teacher": "정재일 선생님",
+  "title": "(VOD) 정재일T 2026 서바이벌 실전모의 12주차",
+  "lecture_count": "1",
+  "period": "2026-09-28~2026-10-26",
+  "category": "수학",
+  "category_code": "50",
+  "lastSeen": "2026-10-01"
+ }
+}
