@@ -1,0 +1,9 @@
+name = "vod-proxy"
+main = "worker.js"
+compatibility_date = "2024-11-01"
+
+# 배포 후 주소: https://vod-proxy.<본인계정>.workers.dev
+# 커스텀 도메인을 붙이고 싶으면 아래 routes 주석을 풀어 수정:
+# routes = [
+#   { pattern = "dl.example.com/*", zone_name = "example.com" }
+# ]
